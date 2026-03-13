@@ -3,7 +3,7 @@ layout: page
 title: Nonlinear Isolator Dynamics
 description: Nonlinear modelling of rubber vibration isolators with clearance nonlinearity
 img: assets/img/nonlinear_isolator.png
-importance: 5
+importance: 6
 category: past projects
 ---
 

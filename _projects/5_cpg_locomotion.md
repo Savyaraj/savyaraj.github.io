@@ -3,7 +3,7 @@ layout: page
 title: Neural Controllers for Locomotion
 description: Design and analysis of CPG-based neural controllers for animal and robot locomotion
 img: assets/img/cpg_locomotion.png
-importance: 4
+importance: 5
 category: past projects
 related_publications: false
 ---

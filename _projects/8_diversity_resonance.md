@@ -3,7 +3,7 @@ layout: page
 title: Diversity Induced Resonance
 description: Optimal noise and parameter diversity inducing coherent periodic responses in coupled nonlinear oscillators
 img: assets/img/diversity_resonance.png
-importance: 7
+importance: 8
 category: past projects
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Trajectory Planning for 2D Quadcopter
 description: Motion planning and control algorithms for quadcopter trajectory tracking in cluttered environments
 img: assets/img/quadcopter_trajectory.png
-importance: 6
+importance: 7
 category: past projects
 ---
 
