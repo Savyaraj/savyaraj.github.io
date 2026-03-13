@@ -376,36 +376,41 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-nonlinear-photonics-amp-frequency-combs",
-          title: 'Nonlinear Photonics &amp;amp; Frequency Combs',
-          description: "End-to-end nonlinear PDE simulation software for chip-scale microresonator systems",
+            },},{id: "projects-soliton-hopping-in-coupled-microresonators",
+          title: 'Soliton Hopping in Coupled Microresonators',
+          description: "Exact periodic orbit solutions and bifurcation structure underlying soliton hopping in coupled optical microresonators",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_photonics/";
-            },},{id: "projects-active-media",
-          title: 'Active Media',
-          description: "Ongoing research project",
+              window.location.href = "/projects/1_dimer_trimer/";
+            },},{id: "projects-discovering-coherent-solutions-within-spatiotemporal-chaos",
+          title: 'Discovering Coherent Solutions within Spatiotemporal Chaos',
+          description: "Exact time-periodic solutions embedded in optical turbulence in the Lugiato-Lefever model",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_active_media/";
+              window.location.href = "/projects/2_otr/";
+            },},{id: "projects-active-fluids-amp-bacterial-turbulence",
+          title: 'Active Fluids &amp;amp; Bacterial Turbulence',
+          description: "Dynamical systems approach to self-organized patterns in active matter",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_active_fluids/";
             },},{id: "projects-neural-controllers-for-locomotion",
           title: 'Neural Controllers for Locomotion',
           description: "Design and analysis of CPG-based neural controllers for animal and robot locomotion",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_cpg_locomotion/";
+              window.location.href = "/projects/4_cpg_locomotion/";
             },},{id: "projects-nonlinear-isolator-dynamics",
           title: 'Nonlinear Isolator Dynamics',
           description: "Nonlinear modelling of rubber vibration isolators with clearance nonlinearity",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_nonlinear_isolators/";
+              window.location.href = "/projects/5_nonlinear_isolators/";
             },},{id: "projects-trajectory-planning-for-2d-quadcopter",
           title: 'Trajectory Planning for 2D Quadcopter',
           description: "Motion planning and control algorithms for quadcopter trajectory tracking in cluttered environments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_quadcopter/";
+              window.location.href = "/projects/6_quadcopter/";
             },},{id: "projects-diversity-induced-resonance",
           title: 'Diversity Induced Resonance',
           description: "Optimal noise and parameter diversity inducing coherent periodic responses in coupled nonlinear oscillators",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_diversity_resonance/";
+              window.location.href = "/projects/7_diversity_resonance/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
