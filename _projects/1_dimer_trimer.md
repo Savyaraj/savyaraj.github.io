@@ -21,4 +21,4 @@ Characterized the full existence regions for soliton hopping in detuning--pump p
 
 Built on a **C++/Python** simulation stack with **spectral discretization** and **Krylov-subspace** linear solvers. Code available at [channelflow-dedalus](https://github.com/Savyaraj/channelflow-dedalus).
 
-**Publication:** [arXiv:2508.09921](https://arxiv.org/abs/2508.09921)
+**Publication:** [Commun. Phys. (2026)](https://www.nature.com/articles/s42005-026-02623-6) — [arXiv:2508.09921](https://arxiv.org/abs/2508.09921)
