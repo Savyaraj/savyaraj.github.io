@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>EPFL STI IGM ECPS</p>
-    <p>Lausanne, Switzerland</p>
+    <p>MED 2 2924, Station 9</p>
+    <p>EPFL, 1015 Lausanne, Switzerland</p>
 
 selected_papers: true
 social: true

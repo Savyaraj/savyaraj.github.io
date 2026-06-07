@@ -4,7 +4,7 @@ cv:
   email: savyaraj.deshmukh@epfl.ch
   location: Lausanne, Switzerland
   image: ""
-  summary: Physicist and scientific software developer specializing in high-performance computing, numerical optimization, and nonlinear PDE simulation.
+  summary: Computational scientist with a decade of focus on nonlinear physics, developing high-performance numerical solvers and optimization algorithms across fluid mechanics, photonics, and neuroscience. Experienced HPC software developer in C++/Python with GPU-accelerated and MPI-parallel computing.
 
   social_networks:
     - network: GitHub
@@ -21,7 +21,7 @@ cv:
         studyType: PhD
         start_date: 2021
         end_date: present
-        courses: "Numerical Methods and Bifurcation Theory for Nonlinear PDEs"
+        courses: "Thesis: Numerical Methods and Bifurcation Theory for Nonlinear PDEs"
 
       - institution: EPFL
         location: Lausanne, Switzerland
@@ -45,26 +45,28 @@ cv:
       - company: EPFL -- Emergent Complexity in Physical Systems Lab (ECPS)
         position: Doctoral Researcher
         location: Lausanne, Switzerland
-        start_date: 2021
+        start_date: 2021-09
         end_date: present
-        summary: Building end-to-end nonlinear PDE simulation software bridging high-performance C++ nonlinear-analysis core with flexible Python-based MPI-parallel PDE workflow.
         highlights:
-          - Implemented Krylov-subspace iterative methods and preconditioning for efficient optimization, computation and stability analysis of exact invariant solutions
-          - Transferred numerical PDE-solving techniques from fluid mechanics to photonic applications for emerging frequency-comb technologies in chip-scale microresonator systems
+          - Developed open-source C++/Python software for nonlinear analysis of PDEs across fluid mechanics and photonics, enabling Newton-Krylov computations of exact solutions and bifurcation tracking at scale.
+          - Reduced matrix inversion cost from O(N³) to O(N) by replacing direct solvers with Krylov subspace methods, enabling large-scale bifurcation computations infeasible with conventional approaches.
+          - Extended this framework with an adjoint-based optimization scheme to compute time-periodic solutions of Hamiltonian PDEs, including the nonlinear Schrödinger equation.
+          - Leveraged this framework in photonics demonstrating 10x threshold reduction for generating emergent soliton hopping in coupled microresonators, advancing chip-scale frequency-comb technology.
+          - Applied data-driven dimensionality reduction with autoencoder neural networks to identify low-dimensional nonlinear embeddings of optical chaos.
 
       - company: NeuroRestore, Lausanne University Hospital (CHUV)
-        position: Computational Modelling of Neural Networks
+        position: Research Assistant
         location: Lausanne, Switzerland
-        start_date: 2020
-        end_date: 2020
-        summary: Designed and implemented neural network models and data-driven simulations to analyze sensorimotor responses to epidural electrical stimulation, supporting applied clinical research and experimental decision-making.
+        start_date: 2020-02
+        end_date: 2020-12
+        summary: Extended biophysical neural network models of spinal circuits with novel synaptic pathways; reproduced in-vivo EMG responses to high-frequency (≤1 kHz) epidural stimulation and identified candidate mechanisms to guide experimental design and stimulation protocols.
 
       - company: Acoustics & Dynamics Laboratory, Ohio State University
         position: Research Intern
         location: Columbus, USA
-        start_date: 2018
-        end_date: 2018
-        summary: Applied numerical simulation and frequency-domain analysis to model nonlinear vibration isolators in mechanical systems, supporting design insights and system optimization.
+        start_date: 2018-05
+        end_date: 2018-07
+        summary: Developed numerical simulations of vibration isolators with a PSD-based metric for estimating nonlinear contributions, revealing peak nonlinearity at intermediate amplitudes (~0.01 mm) from elastic-friction interaction.
 
     Skills:
       - name: Programming
@@ -75,12 +77,24 @@ cv:
       - name: Libraries
         level: ""
         icon: fa-solid fa-book
-        keywords: "NumPy, SciPy, MPI"
+        keywords: "NumPy, SciPy, MPI, Matplotlib, JAX"
 
       - name: Tools
         level: ""
         icon: fa-solid fa-screwdriver-wrench
-        keywords: "VSCode, Git, LaTeX"
+        keywords: "VSCode, Git, CMake, LaTeX, Linux, ABAQUS, ANSYS"
+
+    Honours and Awards:
+      - year: 2015
+        title: JEE Top 0.03%
+        issuer: Joint Entrance Examination, India
+        summary: "Ranked 404 / 1,500,000 (top 0.03%) in JEE, India's national engineering entrance examination."
+
+      - year: 2018
+        title: RIYA Fellowship
+        issuer: Ohio State University
+        summary: "Recipient of the RIYA (Research Internship for Young Academics) Fellowship to conduct research at the Ohio State University."
+        url: https://mae.osu.edu/research-internship-young-academics-riya-program
 
     Languages:
       - name: English
@@ -103,9 +117,9 @@ cv:
           - A. Tikan
           - T. J. Kippenberg
           - T. M. Schneider
-        publisher: arXiv
-        releaseDate: 2025
-        url: https://arxiv.org/abs/2508.09921
+        publisher: "Communications Physics (arXiv: 2508.09921)"
+        releaseDate: 2026
+        url: https://www.nature.com/articles/s42005-026-02623-6
 
       - title: "Periodic orbits underlying spatiotemporal chaos in the Lugiato--Lefever model"
         authors:
