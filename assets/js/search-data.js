@@ -416,6 +416,11 @@ ninja.data = [{
           description: "Optimal noise and parameter diversity inducing coherent periodic responses in coupled nonlinear oscillators",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_diversity_resonance/";
+            },},{id: "projects-soliton-self-injection-locking-in-microresonators",
+          title: 'Soliton Self-Injection Locking in Microresonators',
+          description: "Bifurcation structure and deterministic access to single-soliton states in self-injection-locked microcombs",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_self_injection_locking/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
