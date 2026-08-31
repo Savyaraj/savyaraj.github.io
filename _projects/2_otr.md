@@ -3,7 +3,7 @@ layout: page
 title: Discovering Coherent Solutions within Spatiotemporal Chaos
 description: Exact time-periodic solutions embedded in optical turbulence in the Lugiato-Lefever model
 img: assets/img/otr_chaos.png
-importance: 2
+importance: 3
 category: research
 ---
 
@@ -19,4 +19,4 @@ Discovered three families of OTR solutions bifurcating from stationary Turing ro
 
 Computed solution branches using **Newton-Krylov methods** with **Fourier spectral discretization**, characterized their stability via **Floquet analysis**, and traced their evolution through parameter space using **numerical continuation**. Mapped out a phase diagram connecting the classical regimes (continuous waves, Turing rolls, solitons, breathers) through the chaotic regime.
 
-**Publication:** [arXiv:2509.10283](https://arxiv.org/abs/2509.10283) (*Equal contribution)
+**Publication:** [arXiv:2509.10283](https://arxiv.org/abs/2509.10283) (\*Equal contribution)

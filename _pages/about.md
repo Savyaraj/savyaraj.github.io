@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a doctoral researcher at the [Emergent Complexity in Physical Systems (ECPS)](https://www.epfl.ch/labs/ecps/) laboratory at EPFL, working at the intersection of **physics**, **applied mathematics**, and **scientific computing**. I specialize in in high-performance computing, numerical optimization, and nonlinear PDE simulation, with a strong track record in **Python/C++ development** and cross-disciplinary research.
+I am a doctoral researcher at the [Emergent Complexity in Physical Systems (ECPS)](https://www.epfl.ch/labs/ecps/) laboratory at EPFL, working at the intersection of **physics**, **applied mathematics**, and **scientific computing**. I specialize in high-performance computing, numerical optimization, and nonlinear PDE simulation for applications in photonics and fluid mechanics, with a strong track record in **Python/C++ development** and cross-disciplinary research.
 
 Previously, I developed data-driven computational models of **neural networks** at [NeuroRestore](https://www.neurorestore.swiss/) (Lausanne University Hospital), simulating sensorimotor responses to epidural electrical stimulation.
 

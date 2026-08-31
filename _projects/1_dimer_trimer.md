@@ -3,7 +3,7 @@ layout: page
 title: Soliton Hopping in Coupled Microresonators
 description: Exact periodic orbit solutions and bifurcation structure underlying soliton hopping in coupled optical microresonators
 img: assets/img/dimer_trimer_soliton.png
-importance: 1
+importance: 2
 category: research
 ---
 

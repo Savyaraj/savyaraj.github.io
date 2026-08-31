@@ -3,7 +3,7 @@ layout: page
 title: Active Fluids & Bacterial Turbulence
 description: Dynamical systems approach to self-organized patterns in active matter
 img: assets/img/active_fluids.png
-importance: 3
+importance: 4
 category: research
 ---
 
@@ -15,4 +15,4 @@ Studying self-organized patterns and turbulent-like dynamics in active fluids us
     </div>
 </div>
 
-*Manuscript in preparation.*
+_Manuscript in preparation._

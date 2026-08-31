@@ -4,7 +4,7 @@ cv:
   email: savyaraj.deshmukh@epfl.ch
   location: Lausanne, Switzerland
   image: ""
-  summary: Computational scientist with a decade of focus on nonlinear physics, developing high-performance numerical solvers and optimization algorithms across fluid mechanics, photonics, and neuroscience. Experienced HPC software developer in C++/Python with GPU-accelerated and MPI-parallel computing.
+  summary: Computational scientist with a decade of experience in nonlinear physics, high-performance numerical solvers and optimization algorithms across fluid mechanics, photonics, robotics, and neuroscience. Proficient in HPC software development in C++/Python with GPU-accelerated and MPI-parallel computing.
 
   social_networks:
     - network: GitHub
@@ -30,7 +30,7 @@ cv:
         studyType: MSc
         start_date: 2019
         end_date: 2021
-        score: "5.58 / 6"
+        score: "5.69 / 6"
 
       - institution: Indian Institute of Technology Bombay
         location: Mumbai, India
@@ -82,7 +82,14 @@ cv:
       - name: Tools
         level: ""
         icon: fa-solid fa-screwdriver-wrench
-        keywords: "VSCode, Git, CMake, LaTeX, Linux, ABAQUS, ANSYS"
+        keywords: "VSCode, Git, CMake, LaTeX, Linux, ABAQUS, Ansys (FEM/FEA)"
+
+    Relevant Coursework:
+      - label: Coursework
+        details: Scientific programming for engineers, Advanced machine learning, Intelligent and learning agents, Optimal control, Design optimization, Industrial engineering and operations research, Statistical physics, Quantum mechanics
+
+      - label: Teaching experience
+        details: Applied data analysis, turbulence, fluid mechanics
 
     Honours and Awards:
       - year: 2015
@@ -121,13 +128,11 @@ cv:
         releaseDate: 2026
         url: https://www.nature.com/articles/s42005-026-02623-6
 
-      - title: "Periodic orbits underlying spatiotemporal chaos in the Lugiato--Lefever model"
+      - title: "Bifurcation structure of soliton self-injection locking in microresonators"
         authors:
-          - A. Gelash
           - S. Deshmukh
-          - A. Shusharin
           - T. M. Schneider
-          - T. J. Kippenberg
-        publisher: arXiv
-        releaseDate: 2025
-        url: https://arxiv.org/abs/2509.10283
+          - A. Tikan
+        publisher: Optics Letters
+        releaseDate: 2026
+        url: https://doi.org/10.1364/OL.608452
